@@ -20,9 +20,9 @@
 
 # GCloud specific config
 PROJECT_ID = "iot-weather-clock"
-IOT_CORE_REGION = "europe-west1"
+IOT_CORE_REGION = "us-central1"
 IOT_CORE_REGISTRY_ID = "weather-devices"
-IOT_CORE_DEVICE_ID = "d0123710B94CEB0ECFE"
+IOT_CORE_DEVICE_ID = "d0123FA593F184461FE"
 
 # Location to fetch data from. See yr.no for more information
 YR_LOCATION_URL = "https://www.yr.no/place/Norway/Tr%C3%B8ndelag/Trondheim/Trondheim/forecast.xml"
