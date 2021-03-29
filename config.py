@@ -20,7 +20,7 @@
 
 # GCloud specific config
 PROJECT_ID = "iot-weather-clock"
-IOT_CORE_REGION = "us-central1"
+IOT_CORE_REGION = "europe-west1"
 IOT_CORE_REGISTRY_ID = "weather-devices"
 IOT_CORE_DEVICE_ID = "d0123FA593F184461FE"
 
